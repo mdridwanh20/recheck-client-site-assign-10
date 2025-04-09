@@ -1,0 +1,91 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/Gvcq7Bc3/Football.jpg",
+      "title": "Professional Football",
+      "price": 29.99,
+      "rating": 4.7,
+      "details": "Durable professional-grade football designed for all weather conditions.",
+      "category": "Football",
+      "tag": ["outdoor", "team sports", "durable"],
+      "product_id": "FB001"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/RpmZc6w5/Basketball.jpg",
+      "title": "Premium Basketball",
+      "price": 34.99,
+      "rating": 4.8,
+      "details": "High-quality basketball ideal for both indoor and outdoor courts.",
+      "category": "Basketball",
+      "tag": ["indoor", "outdoor", "high-quality"],
+      "product_id": "BB002"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/v48jjP7P/Racket.jpg",
+      "title": "Tennis Racket",
+      "price": 79.99,
+      "rating": 4.5,
+      "details": "Ergonomic and lightweight tennis racket suitable for beginners and professionals.",
+      "category": "Tennis",
+      "tag": ["lightweight", "ergonomic", "professional"],
+      "product_id": "TR003"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/C3yWktgK/Cricket-Bat.jpg",
+      "title": "Classic Cricket Bat",
+      "price": 49.99,
+      "rating": 4.6,
+      "details": "Handcrafted cricket bat made from premium willow for exceptional performance.",
+      "category": "Cricket",
+      "tag": ["handcrafted", "premium", "durable"],
+      "product_id": "CB004"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/wF1hz149/Running-Shoes.jpg",
+      "title": "Running Shoes",
+      "price": 59.99,
+      "rating": 4.4,
+      "details": "Comfortable and durable running shoes designed for long-distance runs.",
+      "category": "Footwear",
+      "tag": ["comfortable", "durable", "lightweight"],
+      "product_id": "RS005"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/sp1Hxt8s/Yoga-Mat.jpg",
+      "title": "Eco-Friendly Yoga Mat",
+      "price": 24.99,
+      "rating": 4.9,
+      "details": "Non-slip, eco-friendly yoga mat perfect for all levels of yoga enthusiasts.",
+      "category": "Yoga",
+      "tag": ["eco-friendly", "non-slip", "comfortable"],
+      "product_id": "YM006"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/zTqqwThP/download.jpg",
+      "title": "Resistance Bands",
+      "price": 19.99,
+      "rating": 4.6,
+      "details": "Set of resistance bands for various fitness exercises and strength training.",
+      "category": "Fitness",
+      "tag": ["resistance", "training", "fitness"],
+      "product_id": "FB007"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/Nn3SnwXN/Sports-Water-Bottle.jpg",
+      "title": "Sports Water Bottle",
+      "price": 14.99,
+      "rating": 4.3,
+      "details": "Durable and eco-friendly water bottle designed for active sports enthusiasts.",
+      "category": "Accessories",
+      "tag": ["eco-friendly", "water bottle", "sports"],
+      "product_id": "WB008"
+    }
+  ]
+  

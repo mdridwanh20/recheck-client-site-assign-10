@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "position": "Professional Basketball Player",
+        "image": "https://img.freepik.com/free-photo/handsome-smiling-man-looking-with-disbelief_176420-19591.jpg?ga=GA1.1.115542859.1727183355&semt=ais_hybrid",
+        "description": "EquiSports provided me with top-notch basketball gear that enhanced my performance on the court. Highly recommend!"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "position": "Marathon Runner",
+        "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?ga=GA1.1.115542859.1727183355&semt=ais_hybrid",
+        "description": "The running shoes I purchased from EquiSports are lightweight and durable. Great shopping experience!"
+    },
+    {
+        "id": 3,
+        "name": "Emily Johnson",
+        "position": "Fitness Trainer",
+        "image": "https://img.freepik.com/free-photo/portrait-young-handsome-man-jean-shirt-smiling-with-crossed-arms_176420-12083.jpg?uid=R27326451&ga=GA1.1.250794592.1709733818&semt=ais_hybrid",
+        "description": "EquiSports has a fantastic selection of gym equipment that suits all my training needs. Excellent quality!"
+    },
+    {
+        "id": 4,
+        "name": "Michael Brown",
+        "position": "Soccer Enthusiast",
+        "image": "https://img.freepik.com/free-photo/handsome-attractive-young-european-man-casual-shirt-with-dark-hair-blue-eyes-keeping-arms-folded-confidently-looking-with-pleasant-smile-face-expression_176420-13279.jpg?ga=GA1.1.115542859.1727183355&semt=ais_hybrid",
+        "description": "I bought a soccer kit from EquiSports, and the quality is amazing. It’s my go-to store for sports gear."
+    },
+    {
+        "id": 5,
+        "name": "Sophia Davis",
+        "position": "Tennis Player",
+        "image": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?ga=GA1.1.115542859.1727183355&semt=ais_hybrid",
+        "description": "EquiSports offers premium tennis equipment. I’ve been a loyal customer for years and highly recommend them!"
+    },
+  
+    {
+        "id": 6,
+        "name": "David Lee",
+        "position": "Cycling Enthusiast",
+        "image": "https://img.freepik.com/free-photo/portrait-young-handsome-man-jean-shirt-smiling-with-crossed-arms_176420-12083.jpg?t=st=1733400413~exp=1733404013~hmac=c1ff0a9ef9cb7ab26f9b997e39cc1380349274f416e2433b9dca2d34a8fde400&w=740",
+        "description": "The cycling gear from EquiSports is exceptional! Their products have improved my rides significantly. Great store!"
+    }
+  ]
+  

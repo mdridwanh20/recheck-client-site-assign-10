@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "Adidas Football Shoes",
+      "image": "https://i.ibb.co.com/6cLtkWBD/pexels-photo-10923070.webp",
+      "description": "Adidas Football Shoes offer exceptional grip, lightweight design, and premium materials. Perfect for professional athletes seeking speed, agility, and stability during intense matches."
+    },
+    {
+      "id": 2,
+      "title": "Nike Football",
+      "image": "https://i.ibb.co.com/gLtGq7wF/pexels-photo-6435842.jpg",
+      "description": "The Nike Football ensures excellent control, durability, and grip. Ideal for all weather conditions, it offers consistent performance on both wet and dry fields."
+    },
+    {
+      "id": 3,
+      "title": "Puma Shin Guards",
+      "image": "https://i.ibb.co.com/62x8PRq/pexels-photo-774321.webp",
+      "description": "Puma Shin Guards provide lightweight protection and ergonomic fit. Adjustable straps keep them secure, ensuring comfort and safety during intense matches."
+    }
+  ]

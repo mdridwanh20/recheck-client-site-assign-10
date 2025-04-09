@@ -1,0 +1,8 @@
+.menu-item a.active{
+    color: rgb(37, 199, 85);
+    background-color: transparent;
+}
+.menu-item a.active:hover{
+    background-color: none;
+}
+
